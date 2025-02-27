@@ -12,7 +12,7 @@ namespace DemoLib.Class
             public string server = "localhost";
             public string userid = "root";
             public string password = "vertrigo";
-            public string database = "demoexamcher";
+            public string database = "demoexamen";
 
             public string GetConnect()
             {
